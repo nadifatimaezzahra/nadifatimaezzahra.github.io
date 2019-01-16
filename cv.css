@@ -1,0 +1,63 @@
+* {margin: 0; padding: 0;}
+@media(min-width: 768px){
+body{
+    font: 16px Helvetica, Sans-Serif;
+    line-height: 24px;
+
+
+}
+
+
+#AB{
+ width: 800px;
+ margin: 40px auto 60px;
+
+
+}
+h1 {
+    margin:  0 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+
+
+}
+ h2{
+     font-size: 20px;
+     margin: 0 0 16px 0;
+     position: relative;
+     color: blue;
+     border-bottom: 5px solid blue ; 
+
+ }
+p{
+    margin: 0 0 16px 0;
+
+}
+#A p stong {
+    font-weight: bold;
+}
+#A{
+float :left;
+ width: 500px;
+ margin: 0 0 16px 0;
+ width: 0 0 16px 0;
+}
+
+#A p strong {
+    color: blue;
+}
+ 
+
+#B{
+float: left ;
+
+}
+#C{
+    float: left;
+
+
+}
+}
